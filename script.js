@@ -102,7 +102,7 @@ let IsmPrompt = prompt("Ismingizni kiriting !")
 let res = IsmPrompt.split('')
 let res1 = res.reverse( )
 let res2 = res1.join('')
-console.log(res1);
+console.log(res2);
 
 
 
